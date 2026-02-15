@@ -2,6 +2,16 @@
 
 This project applies model-agnostic and model-specific techniques to understand feature importance in energy consumption datasets from CNC machines. It compares methods such as Integrated Gradients (IG), WINIT, LIME, and Permutation Importance (PI) across different models and datasets (with/without correlation).
 
+## My Contributions
+
+- Implemented **Integrated Gradients (IG)** technique across FNN and LSTM models with correlation-based and unfiltered preprocessing strategies. Conducted model training, evaluation, and comparative analysis to identify the best-performing IG configurations. 
+- Contributed to the Streamlit application development for interactive visualization of feature importance results and collaborated on dataset preprocessing, literature review, and final comparative analysis across all four techniques.
+- Collaborated with the team on implementing WINIT (Windowed Feature Importance in Time) for LSTM and XGBoost models, requiring joint effort to interpret the temporal attribution method and validate results across all datasets.
+
+## links
+- **Full Project Write-up:** https://kavyashreebn-en.carrd.co/#timeseries
+- **Stremalit App**: https://feature-importance-time-series.streamlit.app/ 
+
 ## Prerequisites
 
 - Python 3.8 or later
@@ -87,7 +97,6 @@ insights inform real-time machine adjustments.
   - Top 10 important features
   - Execution time
 - Final Report link: https://code.ovgu.de/iks-ams/teaching/student-projects/wise-24-25/p1-team2-feature-importance/-/blob/ef4c14d9bbe5f171c9378c154a9fb3d8ddfa9662/documentation/AMS_Team2_Report.pdf
-- Stremalit App: https://feature-importance-time-series.streamlit.app/ 
 
 
 ## Authors

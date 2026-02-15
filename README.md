@@ -35,7 +35,7 @@ This project applies model-agnostic and model-specific techniques to understand 
 
 1. **Clone the repository**  
    ```
-   git clone [https://github.com/BNKavyashree/Feature_Importance_Time_Series.git]
+   git clone https://github.com/BNKavyashree/Feature_Importance_Time_Series.git
    cd <repository-directory>
    ```
 

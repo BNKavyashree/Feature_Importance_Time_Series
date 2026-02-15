@@ -10,7 +10,7 @@ This project applies model-agnostic and model-specific techniques to understand 
 
 ## links
 - **Full Project Write-up:** https://kavyashreebn-en.carrd.co/#timeseries
-- **Stremalit App**: https://feature-importance-time-series.streamlit.app/ 
+- **Stremalit App**: [https://feature-importance-timeseries.streamlit.app/] 
 
 ## Prerequisites
 
@@ -35,7 +35,7 @@ This project applies model-agnostic and model-specific techniques to understand 
 
 1. **Clone the repository**  
    ```
-   git clone <repository-url>
+   git clone [https://github.com/BNKavyashree/Feature_Importance_Time_Series.git]
    cd <repository-directory>
    ```
 

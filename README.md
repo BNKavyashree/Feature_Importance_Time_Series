@@ -96,7 +96,7 @@ insights inform real-time machine adjustments.
   - Test loss
   - Top 10 important features
   - Execution time
-- Final Report link: https://code.ovgu.de/iks-ams/teaching/student-projects/wise-24-25/p1-team2-feature-importance/-/blob/ef4c14d9bbe5f171c9378c154a9fb3d8ddfa9662/documentation/AMS_Team2_Report.pdf
+- Final Report link: [https://github.com/BNKavyashree/Feature_Importance_Time_Series/blob/main/AMS_Report.pdf]
 
 
 ## Authors
